@@ -1,10 +1,5 @@
-# CSCE1015 - Hochstetler
-Assignment repository for UNT CSCE1015
-nnv0018
-
-Jacob Hochstetler
-Hochstetler
 ## EUID
 
+nnv0018
 ## Favorite Professor
-$(Jacob Hochstetler)
+Jacob Hochstetler
